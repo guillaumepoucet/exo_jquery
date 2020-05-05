@@ -334,7 +334,7 @@ header.masthead .post-heading .meta a {
 
 .floating-label-form-group input::-webkit-input-placeholder,
 .floating-label-form-group textarea::-webkit-input-placeholder {
-  color: #868e96;
+  color: red;
   font-family: 'Lora', 'Times New Roman', serif;
 }
 
